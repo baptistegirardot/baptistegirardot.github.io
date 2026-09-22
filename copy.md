@@ -1,0 +1,627 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <meta name="description" content="Portfolio de Baptiste Girardot - Étudiant en BTS SIO SISR" />
+    <meta name="author" content="Baptiste Girardot" />
+
+    <title>Portfolio - Baptiste Girardot</title>
+
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+
+    <!-- Font Awesome -->
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+
+    <!-- CSS -->
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+
+<body id="page-top">
+
+    <!-- MENU -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">
+
+            <span class="d-block d-lg-none">
+                Baptiste Girardot
+            </span>
+
+            <span class="d-none d-lg-block">
+                <img
+                    class="img-fluid img-profile rounded-circle mx-auto mb-2"
+                    src="assets/img/profile.jpg"
+                    alt="Photo de Baptiste Girardot"
+                />
+            </span>
+
+        </a>
+
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarResponsive"
+            aria-controls="navbarResponsive"
+            aria-expanded="false"
+            aria-label="Ouvrir le menu">
+
+            <span class="navbar-toggler-icon"></span>
+
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+
+            <ul class="navbar-nav">
+
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#about">
+                        À propos
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#experience">
+                        Expériences
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#education">
+                        Formation
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#skills">
+                        Compétences
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#projects">
+                        Projets
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#interests">
+                        Centres d'intérêt
+                    </a>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link js-scroll-trigger" href="#contact">
+                        Contact
+                    </a>
+                </li>
+
+            </ul>
+
+        </div>
+
+    </nav>
+
+
+    <!-- CONTENU -->
+    <div class="container-fluid p-0">
+
+
+        <!-- À PROPOS -->
+        <section class="resume-section" id="about">
+
+            <div class="resume-section-content">
+
+                <h1 class="mb-0">
+
+                    Baptiste
+
+                    <span class="text-primary">
+                        Girardot
+                    </span>
+
+                </h1>
+
+                <div class="subheading mb-5">
+
+                    18 ans · Étudiant en BTS SIO SISR · France
+
+                </div>
+
+                <p class="lead mb-4">
+
+                    Bonjour et bienvenue sur mon portfolio !
+
+                </p>
+
+                <p class="lead mb-4">
+
+                    Je m'appelle <strong>Baptiste Girardot</strong>,
+                    j'ai 18 ans et je suis actuellement étudiant en
+                    <strong>BTS Services Informatiques aux Organisations (SIO)</strong>,
+                    option <strong>Solutions d'Infrastructure, Systèmes et Réseaux (SISR)</strong>.
+
+                </p>
+
+                <p class="lead mb-4">
+
+                    Avant d'intégrer le BTS SIO, j'ai obtenu un
+                    <strong>Baccalauréat Professionnel MELEC</strong>
+                    (Métiers de l'Électricité et de ses Environnements Connectés)
+                    au <strong>Lycée Léonard de Vinci à Melun</strong>.
+
+                </p>
+
+                <p class="lead mb-5">
+
+                    Je m'intéresse particulièrement à
+                    <strong>l'informatique, aux réseaux, aux systèmes,
+                    à la cybersécurité et aux nouvelles technologies</strong>.
+
+                    À travers ce portfolio, je souhaite présenter mon parcours,
+                    mes compétences, mes projets et mon évolution dans le domaine informatique.
+
+                </p>
+
+
+                <!-- RÉSEAUX -->
+
+                <div class="social-icons">
+
+                    <!-- GitHub -->
+
+                    <a
+                        class="social-icon"
+                        href="https://github.com/baptistegirardot/baptistegirardot.github.io"
+                        target="_blank"
+                        title="Mon GitHub">
+
+                        <i class="fab fa-github"></i>
+
+                    </a>
+
+
+                    <!-- Email -->
+
+                    <a
+                        class="social-icon"
+                        href="mailto:bgirardot77@gmail.com"
+                        title="M'envoyer un email">
+
+                        <i class="fas fa-envelope"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <hr class="m-0" />
+
+
+        <!-- EXPÉRIENCES -->
+        <section class="resume-section" id="experience">
+
+            <div class="resume-section-content">
+
+                <h2 class="mb-5">
+                    Expériences
+                </h2>
+
+
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+
+                    <div class="flex-grow-1">
+
+                        <h3 class="mb-0">
+                            Expériences professionnelles
+                        </h3>
+
+                        <div class="subheading mb-3">
+                            À compléter
+                        </div>
+
+                        <p>
+                            Cette partie présente mes différentes expériences
+                            professionnelles et les compétences que j'ai pu développer.
+                        </p>
+
+                    </div>
+
+                    <div class="flex-shrink-0">
+
+                        <span class="text-primary">
+                            2026
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <div class="d-flex flex-column flex-md-row justify-content-between">
+
+                    <div class="flex-grow-1">
+
+                        <h3 class="mb-0">
+                            Stage / Projet informatique
+                        </h3>
+
+                        <div class="subheading mb-3">
+                            À compléter
+                        </div>
+
+                        <p>
+                            Description de mon stage ou de mes projets réalisés
+                            dans le domaine informatique.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <hr class="m-0" />
+
+
+        <!-- FORMATION -->
+        <section class="resume-section" id="education">
+
+            <div class="resume-section-content">
+
+                <h2 class="mb-5">
+                    Formation
+                </h2>
+
+
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+
+                    <div class="flex-grow-1">
+
+                        <h3 class="mb-0">
+                            BTS Services Informatiques aux Organisations
+                        </h3>
+
+                        <div class="subheading mb-3">
+                            Option SISR
+                        </div>
+
+                        <div>
+                            Solutions d'Infrastructure, Systèmes et Réseaux
+                        </div>
+
+                        <p>
+                            Administration des systèmes, réseaux informatiques,
+                            cybersécurité et infrastructures.
+                        </p>
+
+                    </div>
+
+                    <div class="flex-shrink-0">
+
+                        <span class="text-primary">
+                            2026 - 2028
+                        </span>
+
+                    </div>
+
+                </div>
+
+
+                <div class="d-flex flex-column flex-md-row justify-content-between">
+
+                    <div class="flex-grow-1">
+
+                        <h3 class="mb-0">
+                            Baccalauréat Professionnel MELEC
+                        </h3>
+
+                        <div class="subheading mb-3">
+                            Métiers de l'Électricité et de ses Environnements Connectés
+                        </div>
+
+                        <div>
+                            Lycée Léonard de Vinci - Melun
+                        </div>
+
+                    </div>
+
+                    <div class="flex-shrink-0">
+
+                        <span class="text-primary">
+                            2023 - 2026
+                        </span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <hr class="m-0" />
+
+
+        <!-- COMPÉTENCES -->
+        <section class="resume-section" id="skills">
+
+            <div class="resume-section-content">
+
+                <h2 class="mb-5">
+                    Compétences
+                </h2>
+
+
+                <div class="subheading mb-3">
+                    Informatique
+                </div>
+
+
+                <ul class="fa-ul mb-5">
+
+                    <li>
+                        <span class="fa-li">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        Administration systèmes
+                    </li>
+
+                    <li>
+                        <span class="fa-li">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        Réseaux informatiques
+                    </li>
+
+                    <li>
+                        <span class="fa-li">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        Windows
+                    </li>
+
+                    <li>
+                        <span class="fa-li">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        Linux
+                    </li>
+
+                    <li>
+                        <span class="fa-li">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        Cybersécurité
+                    </li>
+
+                    <li>
+                        <span class="fa-li">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        HTML / CSS
+                    </li>
+
+                    <li>
+                        <span class="fa-li">
+                            <i class="fas fa-check"></i>
+                        </span>
+                        Python
+                    </li>
+
+                </ul>
+
+
+                <div class="subheading mb-3">
+                    Outils
+                </div>
+
+
+                <ul class="list-inline dev-icons">
+
+                    <li class="list-inline-item">
+                        <i class="fab fa-html5"></i>
+                    </li>
+
+                    <li class="list-inline-item">
+                        <i class="fab fa-css3-alt"></i>
+                    </li>
+
+                    <li class="list-inline-item">
+                        <i class="fab fa-python"></i>
+                    </li>
+
+                    <li class="list-inline-item">
+                        <i class="fab fa-github"></i>
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </section>
+
+
+        <hr class="m-0" />
+
+
+        <!-- PROJETS -->
+        <section class="resume-section" id="projects">
+
+            <div class="resume-section-content">
+
+                <h2 class="mb-5">
+                    Projets
+                </h2>
+
+
+                <div class="mb-5">
+
+                    <h3 class="mb-0">
+                        Création de mon portfolio
+                    </h3>
+
+                    <div class="subheading mb-3">
+                        HTML · CSS · Bootstrap
+                    </div>
+
+                    <p>
+
+                        Création de mon portfolio personnel afin de présenter
+                        mon parcours, ma formation, mes compétences et mes projets
+                        dans le domaine informatique.
+
+                    </p>
+
+                </div>
+
+
+                <div class="mb-5">
+
+                    <h3 class="mb-0">
+                        Projet réseau
+                    </h3>
+
+                    <div class="subheading mb-3">
+                        Réseaux informatiques
+                    </div>
+
+                    <p>
+
+                        Projet à compléter avec les travaux réalisés
+                        pendant ma formation en BTS SIO SISR.
+
+                    </p>
+
+                </div>
+
+
+                <div class="mb-5">
+
+                    <h3 class="mb-0">
+                        Administration système
+                    </h3>
+
+                    <div class="subheading mb-3">
+                        Windows · Linux
+                    </div>
+
+                    <p>
+
+                        Projet à compléter avec mes futurs travaux
+                        d'administration système.
+
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <hr class="m-0" />
+
+
+        <!-- CENTRES D'INTÉRÊT -->
+        <section class="resume-section" id="interests">
+
+            <div class="resume-section-content">
+
+                <h2 class="mb-5">
+                    Centres d'intérêt
+                </h2>
+
+                <p>
+
+                    Je m'intéresse particulièrement à l'informatique,
+                    aux nouvelles technologies, aux réseaux et à la cybersécurité.
+
+                </p>
+
+                <p class="mb-0">
+
+                    Je suis également intéressé par le sport,
+                    notamment le football.
+
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <hr class="m-0" />
+
+
+        <!-- CONTACT -->
+        <section class="resume-section" id="contact">
+
+            <div class="resume-section-content">
+
+                <h2 class="mb-5">
+                    Contact
+                </h2>
+
+                <p class="lead">
+
+                    Vous souhaitez me contacter ou consulter mes projets ?
+
+                </p>
+
+                <p>
+
+                    <strong>Email :</strong>
+
+                    <a href="mailto:bgirardot77@gmail.com">
+                        bgirardot77@gmail.com
+                    </a>
+
+                </p>
+
+                <p>
+
+                    <strong>GitHub :</strong>
+
+                    <a
+                        href="https://github.com/baptistegirardot/baptistegirardot.github.io"
+                        target="_blank">
+
+                        github.com/baptistegirardot
+
+                    </a>
+
+                </p>
+
+            </div>
+
+        </section>
+
+
+    </div>
+
+
+    <!-- Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- JavaScript -->
+    <script src="js/scripts.js"></script>
+
+</body>
+
+</html>
